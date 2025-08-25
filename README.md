@@ -20,12 +20,12 @@ Currently, I’m working on projects involving **deep learning, real-time pipeli
 ## 🛠 Featured Projects  
 
 ### 📘 MarkAI
-*AI-assisted assignment marking platform*  
+*AI-assisted assignment marking platform.*  
 
 ---
 
 ### ⚽ NextGoal 
-*Machine learning pipeline for predicting the next goal in live soccer matches*  
+*Machine learning pipeline for predicting the next goal in live soccer matches.*  
 
 ---
 ### 🗓️ Analysis Calendar
