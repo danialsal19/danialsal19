@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danial Saljoughian-Esfahani  
 
 🚀 **Software Engineering student @ University of Toronto (CS, ’27)**  
-🎯 Actively seeking a **12-month SWE Co-op (Sep 2025 – Sep 2026)** in **Toronto**  
+🎯 Actively seeking a **12-month SWE Co-op (May 2026 – Aug 2026)** in **Toronto**  
 
 I enjoy building **production-like systems** that mix full-stack engineering with machine learning.  
 Currently, I’m working on projects involving **deep learning, real-time pipelines, and scalable web apps.**  
